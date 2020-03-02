@@ -7,7 +7,7 @@
 
 # makevector from the assignment instruction, I tried this code from the instruction but get an error message 
 # that reads "Error in -function() { : invalid argument to unary operator" I can't find an answer on the web
-# that works for this error message.  Both code block have the same error message.
+# that works for this error message.  "Both code block" have the same error message.
 # makevector from the assignment instruction,used as example to do the assignment
 # makeVector <- function(x = numeric()){
 #   m <- NULL
